@@ -1,0 +1,36 @@
+.head {background-color: black; 
+	width: 100%;
+	height: 100px;    
+}
+
+.container { overflow: hidden;
+}
+.blog { background-color: yellow;
+	width:60%;
+	height: 100px;
+	float: left; 
+}
+.contact { background-color: red;
+	width: 40%; 
+	height: 100px;
+	float: right; 
+} 
+
+.item {width:33.33%; height: 50px; float: left;
+
+}
+.blue { background-color: blue;
+
+}
+.green { background-color: green;
+	border: 5px solid red;
+	box-sizing: border-box;   
+}
+.orange { background-color: orange;
+} 
+
+.footer { background-color: hotpink;
+	width: 100%;
+	height: 100px; 
+
+}
